@@ -4,15 +4,15 @@ A full-stack social media application where users can connect, share posts and s
 
 ##  Features
 
-* 🔐 User authentication with Clerk
-* 👤 User profiles and profile customization
-* 🤝 Follow and connection system
-* 📝 Create and like posts
-* 📸 24-hour disappearing stories
-* 💬 Real-time one-to-one messaging
-* 🖼️ Image uploads and media handling
-* 🔔 Notifications and background jobs
-* 📧 Email notifications
+*  User authentication with Clerk
+*  User profiles and profile customization
+*  Follow and connection system
+*  Create and like posts
+*  24-hour disappearing stories
+*  Real-time one-to-one messaging
+*  Image uploads and media handling
+*  Notifications and background jobs
+*  Email notifications
 
 ##  Tech Stack
 
