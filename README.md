@@ -4,14 +4,14 @@ A full-stack social media application where users can connect, share posts and s
 
 <p align="center">
 
-[<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" height="22">](https://react.dev/)
-[<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" height="22">](https://vite.dev/)
-[<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" height="22">](https://redux-toolkit.js.org/)
-[<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" height="22">](https://tailwindcss.com/)
-[<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="22">](https://nodejs.org/)
-[<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" height="22">](https://expressjs.com/)
-[<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="22">](https://www.mongodb.com/)
-[<img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white" height="22">](https://clerk.com/)
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" height="22"></a>
+<a href="https://vite.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" height="22"></a>
+<a href="https://redux-toolkit.js.org/"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" height="22"></a>
+<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" height="22"></a>
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="22"></a>
+<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" height="22"></a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="22"></a>
+<a href="https://clerk.com/"><img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white" height="22"></a>
 
 </p>
 
