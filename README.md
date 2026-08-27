@@ -2,6 +2,8 @@
 
 A full-stack social media application where users can connect, share posts and stories, discover people, and chat in real time.
 
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,nodejs,express,mongodb,clerk&perline=8" /> </p>
+
 ##  Features
 
 *  User authentication with Clerk
