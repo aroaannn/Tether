@@ -14,6 +14,7 @@ A full-stack social media application where users can connect, share posts and s
 [<img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white" height="22">](https://clerk.com/)
 
 </p>
+
 ##  Features
 
 *  User authentication with Clerk
