@@ -2,7 +2,41 @@
 
 A full-stack social media application where users can connect, share posts and stories, discover people, and chat in real time.
 
-<p align="center"> <a href="https://react.dev/"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="25"/> </a> <a href="https://vite.dev/"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="25"/> </a> <a href="https://redux-toolkit.js.org/"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="25"/> </a> <a href="https://tailwindcss.com/"> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="25"/> </a> <a href="https://nodejs.org/"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25"/> </a> <a href="https://expressjs.com/"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="25"/> </a> <a href="https://www.mongodb.com/"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/> </a> <a href="https://clerk.com/"> <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" height="25"/> </a> </p>
+<div align="center">
+
+<a href="https://react.dev/" style="text-decoration:none;">
+<img src="https://skillicons.dev/icons?i=react" height="35" />
+</a>
+
+<a href="https://vite.dev/" style="text-decoration:none;">
+<img src="https://skillicons.dev/icons?i=vite" height="35" />
+</a>
+
+<a href="https://redux-toolkit.js.org/" style="text-decoration:none;">
+<img src="https://skillicons.dev/icons?i=redux" height="35" />
+</a>
+
+<a href="https://tailwindcss.com/" style="text-decoration:none;">
+<img src="https://skillicons.dev/icons?i=tailwind" height="35" />
+</a>
+
+<a href="https://nodejs.org/" style="text-decoration:none;">
+<img src="https://skillicons.dev/icons?i=nodejs" height="35" />
+</a>
+
+<a href="https://expressjs.com/" style="text-decoration:none;">
+<img src="https://skillicons.dev/icons?i=express" height="35" />
+</a>
+
+<a href="https://www.mongodb.com/" style="text-decoration:none;">
+<img src="https://skillicons.dev/icons?i=mongodb" height="35" />
+</a>
+
+<a href="https://clerk.com/" style="text-decoration:none;">
+<img src="https://skillicons.dev/icons?i=clerk" height="35" />
+</a>
+
+</div>
 
 ##  Features
 
