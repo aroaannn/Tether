@@ -2,7 +2,7 @@
 
 A full-stack social media application where users can connect, share posts and stories, discover people, and chat in real time.
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,nodejs,express,mongodb&perline=7" /> </p>
+<p align="center"> <a href="https://react.dev/"> <img src="https://skillicons.dev/icons?i=react" height="45" alt="React"/> </a> <a href="https://vite.dev/"> <img src="https://skillicons.dev/icons?i=vite" height="45" alt="Vite"/> </a> <a href="https://redux-toolkit.js.org/"> <img src="https://skillicons.dev/icons?i=redux" height="45" alt="Redux Toolkit"/> </a> <a href="https://tailwindcss.com/"> <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS"/> </a> <a href="https://nodejs.org/"> <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js"/> </a> <a href="https://expressjs.com/"> <img src="https://skillicons.dev/icons?i=express" height="45" alt="Express.js"/> </a> <a href="https://www.mongodb.com/"> <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB"/> </a> <a href="https://clerk.com/"> <img src="https://skillicons.dev/icons?i=clerk" height="45" alt="Clerk"/> </a> </p>
 
 ##  Features
 
