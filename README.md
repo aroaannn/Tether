@@ -2,7 +2,7 @@
 
 A full-stack social media application where users can connect, share posts and stories, discover people, and chat in real time.
 
-## 🚀 Features
+##  Features
 
 * 🔐 User authentication with Clerk
 * 👤 User profiles and profile customization
@@ -14,7 +14,7 @@ A full-stack social media application where users can connect, share posts and s
 * 🔔 Notifications and background jobs
 * 📧 Email notifications
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**
 
@@ -38,7 +38,7 @@ A full-stack social media application where users can connect, share posts and s
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```mermaid
 flowchart LR
@@ -79,7 +79,7 @@ flowchart TD
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Tether/
@@ -105,7 +105,7 @@ Tether/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Clone the repository
 
@@ -164,7 +164,7 @@ npm run dev
 
 ---
 
-## 🔄 Real-Time Messaging
+##  Real-Time Messaging
 
 Tether uses **Server-Sent Events (SSE)** for real-time messaging.
 
@@ -188,7 +188,7 @@ This allows new messages to be pushed to connected users without repeatedly refr
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Group chats
 * Comments and post sharing
@@ -199,7 +199,7 @@ This allows new messages to be pushed to connected users without repeatedly refr
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Aroan Victor**
 
